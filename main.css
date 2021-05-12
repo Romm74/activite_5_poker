@@ -16,6 +16,7 @@ header li {
 }
 table{
     background-color: whitesmoke;
+    border:red solid 2px;
 }
 a{
     color: whitesmoke;
