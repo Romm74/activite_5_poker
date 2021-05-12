@@ -9,10 +9,11 @@ header li {
     display: flexbox;
     font-size: x-large;
 }
-#titre{
-    background-image: url("Img/presentation_poker.jpeg");
+h1 img{
     width: 100%;
     height: 100%;
+    size:10vh;
+}
 }
 td{
     background-color: whitesmoke;
