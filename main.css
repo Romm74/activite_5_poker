@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: red;
+}
+header{
+    text-align: center;
+}
+header li {
+    display: flexbox;
+    font-size: x-large;
+}
